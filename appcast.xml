@@ -6,27 +6,6 @@
         <description>AnyBar 应用更新 Feed</description>
         <language>zh-CN</language>
         
-        <!-- 示例更新项 -->
-        <item>
-            <title>版本 1.1.0</title>
-            <description><![CDATA[
-                <h2>更新内容</h2>
-                <ul>
-                    <li>添加自动更新功能</li>
-                    <li>优化日历显示</li>
-                    <li>修复已知问题</li>
-                </ul>
-            ]]></description>
-            <pubDate>Wed, 13 Nov 2025 00:00:00 +0800</pubDate>
-            <enclosure 
-                url="https://github.com/baorsmile/AnyBar/releases/download/v1.1.0/AnyBar-1.1.0.dmg"
-                sparkle:version="1.1.0"
-                sparkle:shortVersionString="1.1.0"
-                length="10485760"
-                type="application/octet-stream" />
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        </item>
-        
         <item>
             <title>版本 1.0.1</title>
             <description><![CDATA[
